@@ -1,7 +1,7 @@
 # STUB
 # Adds x and y
 def add(x, y):
-    return x+y
+    return 0
 
 # STUB
 # Multiplies x and y
