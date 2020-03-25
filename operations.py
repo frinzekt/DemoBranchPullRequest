@@ -17,4 +17,4 @@ def sub(x, y):
 # STUB
 # Divides two numbers
 def div(x, y):
-    return 0
+    return x/y
