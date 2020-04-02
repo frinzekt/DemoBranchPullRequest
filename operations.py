@@ -12,9 +12,9 @@ def mult(x, y):
 # STUB
 # Subtracts x from y
 def sub(x, y):
-    return 0
+    return y-x
 
 # STUB
 # Divides two numbers
 def div(x, y):
-    return 0
+    return x/y
